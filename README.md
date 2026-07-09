@@ -1,0 +1,2 @@
+# olympiad-programming
+New way. 
